@@ -1,0 +1,115 @@
+.container img {
+     margin: auto;
+     width: 200px;
+ }
+
+ .container {
+ 	text-align: center;
+ }
+
+.top {
+	margin-bottom: 0px;
+}
+
+.America{
+	margin: 0 auto;
+	width: 20%;
+	background-color: green;
+	color: white;
+	font-size: 10px;
+	padding: 15px 30px;
+	text-align: center;
+}
+
+h2{
+	font-family: "Arial Black", Arial, sans-serif;
+}
+
+.bottom {
+	margin-top: 0px;
+}
+
+.nav{
+	width: 100%;
+	height: max-content;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-content: space-around;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-size: 10px;
+	padding: 0px 30px;
+}
+
+a h3 {
+	width: max-content;
+	padding: 0px 8px;
+}
+
+.people {
+	width: 600px;
+	float:left;
+    padding: 25px;
+    margin: 25px;
+    text-align: left;
+}
+
+h1{
+	font: Georgia;
+	font-size: x-large;
+	line-height: 1.2;
+	font-size: 20
+}
+
+.people img{
+	width:100%;
+}
+
+.dumpling {
+	width: 150px;
+	float:left;
+    border-right: 0.25px solid gray;
+    border-left: 0.25px solid gray;
+    padding: 25px;
+    margin: 25px;
+    text-align: left;
+}
+
+h3{
+	font: Georgia;
+	font-size: medium;
+	font-size: 15;
+}
+
+ul{
+	align-self: left;
+}
+
+.Right{
+	float:left;
+	height:max-content;
+	width:150px;
+	font-size: 12px;
+    text-align: left;
+}
+
+.Cheif, .Day {
+	width: 150px;
+    padding: 25px;
+    margin: 25px;
+    text-align: left;
+    color: black;
+    text-align: left;
+}
+
+.body{
+	margin: auto;
+	width: 100vw;
+	height: max-content;
+	text-align: center;
+}
